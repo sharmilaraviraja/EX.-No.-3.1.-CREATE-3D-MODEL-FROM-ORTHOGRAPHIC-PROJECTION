@@ -4,7 +4,7 @@
 ## AIM:
 To create a 3D model from given orthographic projection.
 
-## REQUIREMENTS:
+## REQUIREMENTS: 
 1. Autodesk fusion 360
 2. Windows 10
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
